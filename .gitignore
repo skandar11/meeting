@@ -1,0 +1,9 @@
+secrets/
+scratch/
+transit/*
+!transit/README.md
+чаты/data/*
+!чаты/data/README.md
+__pycache__/
+.DS_Store
+.obsidian/workspace*
